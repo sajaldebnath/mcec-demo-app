@@ -1,0 +1,16 @@
+{
+    "version": "3.17.0",
+    "author": "Sajal Debnath",
+    "website": "https://sajaldebnath.com",
+    "description": "Alpine Linux Appliance",
+    "vm_name": "db01",
+    "guest_os_type": "debian10-64",
+    "hostname": "db01",
+    "numvcpus": "1",
+    "ramsize": "512",
+    "iso_checksum": "8d4d53bd34b2045e1e219b87887b0de8d217b6cd4a8b476a077429845a5582ba",
+    "iso_checksum_type": "sha256",
+    "iso_url": "https://dl-cdn.alpinelinux.org/alpine/v3.17/releases/x86_64/alpine-virt-3.17.0-x86_64.iso",
+    "guest_username": "root",
+    "guest_password": "VMware1!"
+}

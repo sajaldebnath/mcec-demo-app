@@ -1,0 +1,13 @@
+<ProductSection ovf:required="true">
+    <Info>Tiny Alpine Linux Appliance</Info>
+    <Product>Alpine Linux Appliance</Product>
+    <Vendor>Sajal Debnath</Vendor>
+    <Version>{{APPLIANCE_VERSION}}</Version>
+    <ProductUrl>https://github.com/tsugliani/packer-alpine</ProductUrl>
+    <VendorUrl>https://github.com/sajaldebnath</VendorUrl>
+    <Category>Information</Category>
+    <Property ovf:key="studentid" ovf:type="string" ovf:userConfigurable="true" ovf:value="">
+        <Label>Student ID</Label>
+        <Description>ID of the student</Description>
+    </Property>
+</ProductSection>
